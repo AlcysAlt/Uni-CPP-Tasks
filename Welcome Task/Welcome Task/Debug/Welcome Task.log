@@ -1,0 +1,6 @@
+﻿  Welcome Task.cpp
+C:\Users\aweso\source\repos\Welcome Task\Welcome Task\Welcome Task.cpp(73,27): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\aweso\source\repos\Welcome Task\Welcome Task\Welcome Task.cpp(77,29): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\aweso\source\repos\Welcome Task\Welcome Task\Welcome Task.cpp(80,33): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\aweso\source\repos\Welcome Task\Welcome Task\Welcome Task.cpp(83,35): warning C4804: '<': unsafe use of type 'bool' in operation
+  Welcome Task.vcxproj -> C:\Users\aweso\source\repos\Welcome Task\Debug\Welcome Task.exe

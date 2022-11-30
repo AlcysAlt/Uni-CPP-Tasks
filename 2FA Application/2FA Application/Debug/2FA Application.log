@@ -1,0 +1,13 @@
+﻿  2FA Application.cpp
+C:\Users\aweso\source\repos\2FA Application\2FA Application\2FA Application.cpp(142,5): error C3861: 'getline': identifier not found
+C:\Users\aweso\source\repos\2FA Application\2FA Application\2FA Application.cpp(144,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\aweso\source\repos\2FA Application\2FA Application\2FA Application.cpp(145,7): error C3927: '->': trailing return type is not allowed after a non-function declarator
+C:\Users\aweso\source\repos\2FA Application\2FA Application\2FA Application.cpp(145,7): error C3484: syntax error: expected '->' before the return type
+C:\Users\aweso\source\repos\2FA Application\2FA Application\2FA Application.cpp(145,13): error C3613: missing return type after '->' ('int' assumed)
+C:\Users\aweso\source\repos\2FA Application\2FA Application\2FA Application.cpp(145,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\aweso\source\repos\2FA Application\2FA Application\2FA Application.cpp(145,8): error C2146: syntax error: missing ';' before identifier 'close'
+C:\Users\aweso\source\repos\2FA Application\2FA Application\2FA Application.cpp(146,9): error C2059: syntax error: '}'
+C:\Users\aweso\source\repos\2FA Application\2FA Application\2FA Application.cpp(146,9): error C2143: syntax error: missing ';' before '}'
+C:\Users\aweso\source\repos\2FA Application\2FA Application\2FA Application.cpp(148,39): error C2143: syntax error: missing ';' before '{'
+C:\Users\aweso\source\repos\2FA Application\2FA Application\2FA Application.cpp(148,39): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\aweso\source\repos\2FA Application\2FA Application\2FA Application.cpp(268,1): fatal error C1071: unexpected end of file found in comment
